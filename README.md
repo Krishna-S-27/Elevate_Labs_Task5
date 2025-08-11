@@ -57,10 +57,12 @@ Top Sales Representatives
 
 Monthly Sales Trends
 
-4. Visualization
+4. Visualization   
 Bar Charts → Region-wise and Category-wise sales
 
 Line Chart → Monthly trends
+
+## Note: The result are present in analysis.ipynb file. 
 
 ---
 
